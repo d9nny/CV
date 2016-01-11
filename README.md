@@ -31,7 +31,7 @@ Built in Ruby using Sinatra. It was developed with TDD using Rspec and Capybara
 
 ## Education
 
-#### Makers Academy (Oct 15 - Jan 16)
+**Makers Academy** (Oct 15 - Jan 16)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -40,16 +40,16 @@ Built in Ruby using Sinatra. It was developed with TDD using Rspec and Capybara
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Queen Mary University London (QMUL) (Sep 09 - Jun 12)
+**Queen Mary University London (QMUL)** (Sep 09 - Jun 12)
 
 Degree = {2:2: Mathematics BSc Hons }
 - Favourite Modules: Entrepreneurial Mathematics, Mathematical Programming, Finance
 
-#### Richard Huish College (Sep 06 - Jun 08)
+**Richard Huish College** (Sep 06 - Jun 08)
 
 A Level = { B: [ Maths, Business Studies, Economics ]}
 
-#### Blundell's School (Sep 06 - Jun 08)
+**Blundells School** (Sep 06 - Jun 08)
 
 GCSE = { A*: [ Maths, Physics, Biology, History, Geography ], A: [Art, IT], B: [English x 2, French]}
 
