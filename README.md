@@ -35,7 +35,7 @@ Code Examples
 
 [**Oystercard - SOLID Code - Ruby**](https://github.com/d9nny/oystercard/tree/master/lib)
 
-[**Instagram Challeng - CRUD**](https://github.com/d9nny/instagram-challenge/blob/master/app/controllers/posts_controller.rb)
+[**Instagram Challeng - CRUD - Ruby**](https://github.com/d9nny/instagram-challenge/blob/master/app/controllers/posts_controller.rb)
 
 [**Taste - Rails**](https://github.com/d9nny/taste/tree/master/app)
 
@@ -43,7 +43,7 @@ Code Examples
 
 [**AutoPair - AngularJS**](https://github.com/d9nny/Auto-pair/tree/master/app/assets/javascripts)
 
-[**Tescoin - API's**](https://github.com/d9nny/tescoin/blob/master/app/js/controllers/tescoinSearchController.js)
+[**Tescoin - API's** - JS](https://github.com/d9nny/tescoin/blob/master/app/js/controllers/tescoinSearchController.js)
 
 <!--[Eval - Javascript Scope]()-->
 
