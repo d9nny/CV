@@ -97,7 +97,7 @@ GCSE = { A*: [ Maths, Physics, Biology, History, Geography ], A: [Art, IT], B: [
 -	Responsibility for all logistics and operational efficiency ensuring order completed correctly and on schedule
 -	Managed nine temp staff,  requiring leadership and problem solving skills, including: quality control, resource planning & management to ensure all projected targets were met
 
-**NHS Direct** (Nov 08 - Mar 08)   
+**NHS Direct** (Nov 08 - Mar 09)   
 *Health Advisor*
 
 -	Operated a complex triage system, calls ranged from advising location of local GP to conditions requiring emergency response calls
