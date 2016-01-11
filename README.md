@@ -1,25 +1,36 @@
-## Your Name
+Dan Wheeler
+==============
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Junior web developer/software engineer. I learnt to code at Makers Academy and fell in love with software programming and design. I decided to join Makers to change my career and learn the skills needed to become a developer. I’ve really enjoyed the last few months and I’m excited at the prospect of continuing to learn new technologies and the further development of my new skills.  I'm looking for a junior developer role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
 
 ## Skills
 
-#### This Skill
+|               |Strong                             |	Know                                	|
+|---------------|-----------------------------------|---------------------------------------|
+|Languages      |	Ruby, Javascript	CSS3, HTML5     | jQuery	Bootstrap                     | 
+|Databases/ORMS |PostGresQL, DataMapper             |	ActiveRecord, MongoDB                 | 
+|Frameworks     |	Sinatra, Ruby on Rails, AngularJS |	Node.js, Express.js                   | 	
+|Testing        |	RSpec, Jasmine, Capybara          |	Cucumber, Karma, Protractor         	| 
+|Other          |	Version control through Github    |	Heroku deployment, Agile methodologies| 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During my time at Makers I also learnt cutting edge coding techniques such as agile development, TDD, BDD, pair-programming, SOLID, REST, CRUD and project management (waffle.io, mybalsamiq, Google hangouts, slack etc).
 
-- Experience
-- Achievements
-- Evidence
+## Projects
 
-#### Another Skill
+**GitHub User Search** 
+[Live Site Link](https://evening-eyrie-3741.herokuapp.com/)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses angular resource, mocks and routes & two API calls to GitHub. Developed using TDD - Jasmine - Karma.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Taste**
+[Live Site Link](https://intense-chamber-6227.herokuapp.com/)
+
+Built in Ruby, HTML5 & CSS it uses the Rails framework, devise and facebook omniauth for user login, PostgreSQL for the database & AWS to store images. Developed using TDD - Rspec and Capybara.
+
+**Battle**
+[Live Site Link](hhttps://lit-temple-9763.herokuapp.com/)
+
+Built in Ruby using Sinatra. It was developed with TDD using Rspec and Capybara
 
 ## Education
 
@@ -38,11 +49,59 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+## Books 
+- 'Computer Networks' by Andrew S. Tanenbaum & David J. Wetherall
+- ‘How to Win Friends and Influence People’ by Dale Carnegie
+- ‘Leadership & Self-Deception’ by Arbinger Institute
+- ‘The Art of SEO’ by Eric Enge,…
+- ‘The Lean Startup’ by Eric Ries
+- ‘Art of War’ by Sun Tzu
 
-## Experience
+## Employment
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Atlantic Graphics**  (Oct 14 – Oct 15)
+*Production Manager*
+
+- Standardised materials to reduce waste & stock and to increase discounts and job consistency
+- Introduced new quality guidelines, KPI’s, quoting system & production software
+- Managed three full time staff and temporary workers during busy periods
+- Account Manager's point of contact for any graphic related queries
+- Designed, prototyped and tested bespoke projects
+- Projects include: Menu communication for 320 Sainsbury Cafes & 70 Man-U Kiosks
+
+**Atlantic Shopfit** (Mar 14 - Sep 14)   
+*Commercial Assistant*
+
+-	Minimise project costs and enhance value for money, while adhering to Building & Safety regulations;
+-	Preparing tender and contract documents, including bills of quantities; 
+-	Undertaking costs analysis for project work;
+-	Procurement, preparing and analysing costings for tenders;
+-	Achieved accreditation from both Altius and Safe Contractors 
+-	Project Include: Refurbishment of Dudley Zoo's Queen Mary Restaurant,  extension and refurbishment for Cadbury World
+
+**Sitel** (May 13 - Sep 13)   
+*John Lewis Technical Support*
+
+-	Provided technical assistance for customers, involved active listening skills, troubleshooting, discernment of specific problems
+-	Utilising multiple software applications, up to nine
+-	Imperative to this role was an attitude of equanimity and understanding to best serve often anxious and stressed customers. (A flavour of gentle humour never went amiss either!)
+
+**Atlantic Graphics** (Aug 12 - Oct 12)   
+*Floor Supervisor*
+
+-	Supervised critical National Christmas M&S window-display order
+-	Responsibility for all logistics and operational efficiency ensuring order completed correctly and on schedule
+-	Managed nine temp staff,  requiring leadership and problem solving skills, including: quality control, resource planning & management to ensure all projected targets were met
+
+**NHS Direct** (Nov 08 - Mar 08)   
+*Health Advisor*
+
+-	Operated a complex triage system, calls ranged from advising location of local GP to conditions requiring emergency response calls
+-	This was a challenging post which required acute attention to detail, discernment, clarity of thought, sustained focus and composure at all times
+
+**Debenhams** (Mar 08 - Jun 08)   
+*Customer Contact Advisor*
+
+-	Dealt with customer services queries, creating and processing orders and managing complaints.
+-	Developed skills in professionalism, courtesy, efficiency and how to foster good relationships with customers to best ascertain and manage their specific needs
+-	Resulted in excellent call reviews and customer feedback
