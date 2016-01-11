@@ -1,7 +1,7 @@
 Dan Wheeler
 ==============
 
-**Entrepreneurial junior web developer/software engineer.** I learnt to code at Makers Academy and fell in love with software programming and design. I decided to join Makers to change my career and learn the skills needed to become a developer. I’ve really enjoyed the last few months and I’m excited at the prospect of continuing to learn new technologies and the further development of my new skills. I'm looking for a junior developer role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
+**Entrepreneurial junior web developer/software engineer.** After Uni, I relised a passion for technology and innovation, which inspired me to join Makers Academy. Makers have given me the skills needed to change career and become a junior developer. I’ve really enjoyed the last few months and I’m excited at the prospect of continuing to learn new technologies and further develop my new skills. I'm looking for a junior developer role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
 
 I am currently based in Exeter UK, but I'm happy to consider jobs in London and abroad.
 
@@ -16,6 +16,34 @@ I am currently based in Exeter UK, but I'm happy to consider jobs in London and 
 |Other          |	Version control through Github, Illustrator    |	Heroku deployment, Agile methodologies, Photoshop| 
 
 During my time at Makers I also learnt cutting edge coding techniques such as agile development, TDD, BDD, pair-programming, SOLID, REST, CRUD and project management (waffle.io, mybalsamiq, Google hangouts, slack etc).
+
+Test Examples
+-------------
+
+[**Oystercard - TDD RSpec**](https://github.com/d9nny/oystercard/tree/master/spec)
+
+[**Taste - BDD Capybara**](https://github.com/d9nny/taste/tree/master/spec/features)
+
+[**Airport - TDD - Jasmine Node**](https://github.com/d9nny/airport_jasmine_node/tree/master/spec)
+<!--[Eval - TDD - Karma]()-->
+<!--[AutoPair - BDD Protractor]()-->
+
+Code Examples
+-------------
+
+[**Oystercard - SOLID Code - Ruby**](https://github.com/d9nny/oystercard/tree/master/lib)
+
+[**Instagram Challeng - CRUD**](https://github.com/d9nny/instagram-challenge/blob/master/app/controllers/posts_controller.rb)
+
+[**Taste - Rails**](https://github.com/d9nny/taste/tree/master/app)
+
+[**Taste - PostgreSQL**](https://github.com/d9nny/taste/tree/master/db)
+
+[**AutoPair - AngularJS**](https://github.com/d9nny/Auto-pair/tree/master/app/assets/javascripts)
+
+[**Tescoin - API's**](https://github.com/d9nny/tescoin/blob/master/app/js/controllers/tescoinSearchController.js)
+
+<!--[Eval - Javascript Scope]()-->
 
 ## Live Projects
 
