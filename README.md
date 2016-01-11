@@ -43,7 +43,7 @@ Code Examples
 
 [**AutoPair - AngularJS**](https://github.com/d9nny/Auto-pair/tree/master/app/assets/javascripts)
 
-[**Tescoin - API's** - JS](https://github.com/d9nny/tescoin/blob/master/app/js/controllers/tescoinSearchController.js)
+[**Tescoin - API's - JS**](https://github.com/d9nny/tescoin/blob/master/app/js/controllers/tescoinSearchController.js)
 
 <!--[Eval - Javascript Scope]()-->
 
