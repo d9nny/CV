@@ -15,7 +15,7 @@ Junior web developer/software engineer. I learnt to code at Makers Academy and f
 
 During my time at Makers I also learnt cutting edge coding techniques such as agile development, TDD, BDD, pair-programming, SOLID, REST, CRUD and project management (waffle.io, mybalsamiq, Google hangouts, slack etc).
 
-## Projects
+## Live Projects
 
 [**GitHub User Search** ](https://evening-eyrie-3741.herokuapp.com/)
 
