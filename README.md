@@ -1,8 +1,7 @@
 Dan Wheeler
 ==============
 
-**Entrepreneurial junior web developer/software engineer**
-I learnt to code at Makers Academy and fell in love with software programming and design. I decided to join Makers to change my career and learn the skills needed to become a developer. I’ve really enjoyed the last few months and I’m excited at the prospect of continuing to learn new technologies and the further development of my new skills. I'm looking for a junior developer role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
+**Entrepreneurial junior web developer/software engineer.** I learnt to code at Makers Academy and fell in love with software programming and design. I decided to join Makers to change my career and learn the skills needed to become a developer. I’ve really enjoyed the last few months and I’m excited at the prospect of continuing to learn new technologies and the further development of my new skills. I'm looking for a junior developer role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
 
 ## Skills
 
