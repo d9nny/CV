@@ -1,13 +1,13 @@
 Dan Wheeler
 ==============
 
-Junior web developer/software engineer. I learnt to code at Makers Academy and fell in love with software programming and design. I decided to join Makers to change my career and learn the skills needed to become a developer. I’ve really enjoyed the last few months and I’m excited at the prospect of continuing to learn new technologies and the further development of my new skills.  I'm looking for a junior developer role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
+Junior web developer/software engineer. I learnt to code at Makers Academy and fell in love with software programming and design. I decided to join Makers to change my career and learn the skills needed to become a developer. I’ve really enjoyed the last few months and I’m excited at the prospect of continuing to learn new technologies and the further development of my new skills. I'm looking for a junior developer role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
 
 ## Skills
 
 |               |Strong                             |	Know                                	|
 |---------------|-----------------------------------|---------------------------------------|
-|Languages      |	Ruby, Javascript	CSS3, HTML5     | jQuery	Bootstrap                     | 
+|Languages      |	Ruby, Javascript	CSS3, HTML5     | jQuery,	Bootstrap                     | 
 |Databases/ORMS |PostGresQL, DataMapper             |	ActiveRecord, MongoDB                 | 
 |Frameworks     |	Sinatra, Ruby on Rails, AngularJS |	Node.js, Express.js                   | 	
 |Testing        |	RSpec, Jasmine, Capybara          |	Cucumber, Karma, Protractor         	| 
@@ -17,24 +17,21 @@ During my time at Makers I also learnt cutting edge coding techniques such as ag
 
 ## Projects
 
-**GitHub User Search** 
-[Live Site Link](https://evening-eyrie-3741.herokuapp.com/)
+[**GitHub User Search** ](https://evening-eyrie-3741.herokuapp.com/)
 
 Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses angular resource, mocks and routes & two API calls to GitHub. Developed using TDD - Jasmine - Karma.
 
-**Taste**
-[Live Site Link](https://intense-chamber-6227.herokuapp.com/)
+[**Taste**](https://intense-chamber-6227.herokuapp.com/)
 
 Built in Ruby, HTML5 & CSS it uses the Rails framework, devise and facebook omniauth for user login, PostgreSQL for the database & AWS to store images. Developed using TDD - Rspec and Capybara.
 
-**Battle**
-[Live Site Link](hhttps://lit-temple-9763.herokuapp.com/)
+[**Battle**](https://lit-temple-9763.herokuapp.com/)
 
 Built in Ruby using Sinatra. It was developed with TDD using Rspec and Capybara
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct 15 - Jan 16)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -43,11 +40,18 @@ Built in Ruby using Sinatra. It was developed with TDD using Rspec and Capybara
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Queen Mary University London (QMUL) (Sep 09 - Jun 12)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Degree = {2:2: Mathematics BSc Hons }
+- Favourite Modules: Entrepreneurial Mathematics, Mathematical Programming, Finance
+
+#### Richard Huish College (Sep 06 - Jun 08)
+
+A Level = { B: [ Maths, Business Studies, Economics ]}
+
+#### Blundell's School (Sep 06 - Jun 08)
+
+GCSE = { A*: [ Maths, Physics, Biology, History, Geography ], A: [Art, IT], B: [English x 2, French]}
 
 ## Books 
 - 'Computer Networks' by Andrew S. Tanenbaum & David J. Wetherall
@@ -59,7 +63,7 @@ Built in Ruby using Sinatra. It was developed with TDD using Rspec and Capybara
 
 ## Employment
 
-**Atlantic Graphics**  (Oct 14 – Oct 15)
+**Atlantic Graphics** (Oct 14 - Oct 15)   
 *Production Manager*
 
 - Standardised materials to reduce waste & stock and to increase discounts and job consistency
