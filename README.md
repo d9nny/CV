@@ -11,7 +11,7 @@ Dan Wheeler
 |Databases/ORMS |PostGresQL, DataMapper             |	ActiveRecord, MongoDB                 | 
 |Frameworks     |	Sinatra, Ruby on Rails, AngularJS |	Node.js, Express.js                   | 	
 |Testing        |	RSpec, Jasmine, Capybara          |	Cucumber, Karma, Protractor         	| 
-|Other          |	Version control through Github    |	Heroku deployment, Agile methodologies| 
+|Other          |	Version control through Github, Illustrator    |	Heroku deployment, Agile methodologies, Photoshop| 
 
 During my time at Makers I also learnt cutting edge coding techniques such as agile development, TDD, BDD, pair-programming, SOLID, REST, CRUD and project management (waffle.io, mybalsamiq, Google hangouts, slack etc).
 
