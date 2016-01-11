@@ -3,7 +3,7 @@ Dan Wheeler
 
 **Entrepreneurial junior web developer/software engineer.** 
 I love to code and I’m excited at the prospect of starting my new career as a junior developer. 
-I believe I'll make a good developer, because: I'm eager to improve my skills and learn new technologies; I can be trusted to work autonomously and work well in a team; I'm happy to adapt to suit the companies needs; I'm a good problem solver with a mathematical background; and I believe I have high growth potential.  
+I believe I'll make a good developer, because: I'm eager to improve my skills and learn new technologies; I can be trusted to work autonomously and work well in a team; I'm happy to adapt to suit the companies needs; and I'm a good problem solver with a mathematical background. 
 I'm looking for a junior developer role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
 I am currently based in Exeter UK, but I'm happy to consider jobs in London and abroad.
 
