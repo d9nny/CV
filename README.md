@@ -61,6 +61,10 @@ Built in Ruby, HTML5 & CSS it uses the Rails framework, devise and facebook omni
 
 Built in Ruby using Sinatra. It was developed with TDD using Rspec and Capybara
 
+[**Coffee Till** ](https://aqueous-cliffs-8772.herokuapp.com/)
+
+Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses angular resource, mocks and routes. Developed using TDD - Jasmine - Karma.
+
 ## Education
 
 **Makers Academy** (Oct 15 - Jan 16)
