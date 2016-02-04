@@ -2,10 +2,8 @@ Dan Wheeler
 ==============
 
 **Entrepreneurial junior web developer/software engineer.** 
-I love to code and I’m excited at the prospect of starting my new career as a junior developer. 
-I believe I'll make a good developer, because: I'm eager to improve my skills and learn new technologies; I can be trusted to work autonomously and work well in a team; I'm happy to adapt to suit the companies needs; and I'm a good problem solver with a mathematical background. 
-I'm looking for a junior developer role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
-I am currently based in Exeter UK, but I'm happy to consider jobs in London and abroad.
+I believe I’m a good candidate, because I’m: hard working; eager to improve my skills and learn new tech; I can be trusted to work autonomously and work well in a team; adaptable to best serve the company; and I'm a natural problem solver with a Mathematics Degree. I'm very passionate about both creativity and code, code has provided me with the tools enabling me to create, my perfect mix! I'm currently working on a project, stock-order, with Rails on the back, AngularJS on the front, TDD with Karma and Rspec and BDD with Protractor. I'm looking for a junior dev role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
+I am currently based in Exeter - Devon, but happy to consider jobs in London and abroad.
 
 ## Skills
 
@@ -49,6 +47,10 @@ Code Examples
 
 ## Live Projects
 
+[**First Fashion**](https://polar-plains-66246.herokuapp.com/)
+
+One page responsive application developed with HTML5, CSS and Javascript using the AngularJS framework. It was developed with TDD using Karma and BDD using Protractor. It also uses Bootstrap, angular controllers, partials, services, factories, resources & mocks.
+
 [**GitHub User Search** ](https://evening-eyrie-3741.herokuapp.com/)
 
 Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses angular resource, mocks and routes & two API calls to GitHub. Developed using TDD - Jasmine - Karma.
@@ -56,10 +58,6 @@ Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses a
 [**Taste**](https://intense-chamber-6227.herokuapp.com/)
 
 Built in Ruby, HTML5 & CSS it uses the Rails framework, devise and facebook omniauth for user login, PostgreSQL for the database & AWS to store images. Developed using TDD - Rspec and Capybara.
-
-[**Battle**](https://lit-temple-9763.herokuapp.com/)
-
-Built in Ruby using Sinatra. It was developed with TDD using Rspec and Capybara
 
 [**Coffee Till** ](https://aqueous-cliffs-8772.herokuapp.com/)
 
