@@ -17,6 +17,29 @@ I am currently based in Exeter - Devon, but happy to consider jobs in London and
 
 During my time at Makers I also learnt cutting edge coding techniques such as agile development, TDD, BDD, pair-programming, SOLID, REST, CRUD and project management (waffle.io, mybalsamiq, Google hangouts, slack etc).
 
+## Live Projects
+
+[**atlantic**](https://cryptic-taiga-13132.herokuapp.com/#/aboutUs)
+
+A work in progress - responsive application developed with HTML5, CSS and Javascript using the AngularJS framework. It uses Bootstrap, angular controllers, partials, services, factories, resources & mocks.
+
+[**First Fashion**](https://polar-plains-66246.herokuapp.com/)
+
+One page responsive application developed with HTML5, CSS and Javascript using the AngularJS framework. It was developed with TDD using Karma and BDD using Protractor. It also uses Bootstrap, angular controllers, partials, services, factories, resources & mocks.
+
+[**GitHub User Search** ](https://evening-eyrie-3741.herokuapp.com/)
+
+Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses angular resource, mocks and routes & two API calls to GitHub. Developed using TDD - Jasmine - Karma.
+
+[**Taste**](https://intense-chamber-6227.herokuapp.com/)
+
+Built in Ruby, HTML5 & CSS it uses the Rails framework, devise and facebook omniauth for user login, PostgreSQL for the database & AWS to store images. Developed using TDD - Rspec and Capybara.
+
+[**Coffee Till** ](https://aqueous-cliffs-8772.herokuapp.com/)
+
+Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses angular resource, mocks and routes. Developed using TDD - Jasmine - Karma.
+
+
 Test Examples
 -------------
 
@@ -44,24 +67,6 @@ Code Examples
 [**Tescoin - API's - JS**](https://github.com/d9nny/tescoin/blob/master/app/js/controllers/tescoinSearchController.js)
 
 <!--[Eval - Javascript Scope]()-->
-
-## Live Projects
-
-[**First Fashion**](https://polar-plains-66246.herokuapp.com/)
-
-One page responsive application developed with HTML5, CSS and Javascript using the AngularJS framework. It was developed with TDD using Karma and BDD using Protractor. It also uses Bootstrap, angular controllers, partials, services, factories, resources & mocks.
-
-[**GitHub User Search** ](https://evening-eyrie-3741.herokuapp.com/)
-
-Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses angular resource, mocks and routes & two API calls to GitHub. Developed using TDD - Jasmine - Karma.
-
-[**Taste**](https://intense-chamber-6227.herokuapp.com/)
-
-Built in Ruby, HTML5 & CSS it uses the Rails framework, devise and facebook omniauth for user login, PostgreSQL for the database & AWS to store images. Developed using TDD - Rspec and Capybara.
-
-[**Coffee Till** ](https://aqueous-cliffs-8772.herokuapp.com/)
-
-Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses angular resource, mocks and routes. Developed using TDD - Jasmine - Karma.
 
 ## Education
 
