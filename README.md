@@ -19,6 +19,10 @@ During my time at Makers I also learnt cutting edge coding techniques such as ag
 
 ## Live Projects
 
+[**Dan Wheeler Portfolio** ](https://dan-wheeler-portfolio.herokuapp.com/)
+
+A responsive one page application developed with HTML5, CSS and Javascript using the AngularJS framework. It uses Bootstrap, sticky-navbar angular controllers, directives, partials, services, factories, resources & mocks. It links to the below sites.
+
 [**atlantic**](https://cryptic-taiga-13132.herokuapp.com/#/aboutUs)
 
 A work in progress - responsive application developed with HTML5, CSS and Javascript using the AngularJS framework. It uses Bootstrap, angular controllers, partials, services, factories, resources & mocks.
@@ -34,11 +38,6 @@ Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses a
 [**Taste**](https://intense-chamber-6227.herokuapp.com/)
 
 Built in Ruby, HTML5 & CSS it uses the Rails framework, devise and facebook omniauth for user login, PostgreSQL for the database & AWS to store images. Developed using TDD - Rspec and Capybara.
-
-[**Coffee Till** ](https://aqueous-cliffs-8772.herokuapp.com/)
-
-Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses angular resource, mocks and routes. Developed using TDD - Jasmine - Karma.
-
 
 Test Examples
 -------------
