@@ -29,15 +29,15 @@ A work in progress - responsive application developed with HTML5, CSS and Javasc
 
 [**First Fashion**](https://polar-plains-66246.herokuapp.com/)
 
-One page responsive application developed with HTML5, CSS and Javascript using the AngularJS framework. It was developed with TDD using Karma and BDD using Protractor. It also uses Bootstrap, angular controllers, partials, services, factories, resources & mocks.
+One page responsive application developed with HTML5, CSS and Javascript using the AngularJS framework. It was developed with TDD using Karma and BDD using Protractor. It also uses Bootstrap, angular controllers, partials, services, factories, resources & mocks. Created to demonstrate a basket functionality.
 
 [**GitHub User Search** ](https://evening-eyrie-3741.herokuapp.com/)
 
-Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses angular resource, mocks and routes & two API calls to GitHub. Developed using TDD - Jasmine - Karma.
+Built in Javascript, HTML5, CSS & Bootstrap using AngularJS framework, it uses angular resource, mocks and routes & two API calls to GitHub. Developed using TDD - Jasmine - Karma. Allows users to search GitHub users and retrieve basic profile info.
 
 [**Taste**](https://intense-chamber-6227.herokuapp.com/)
 
-Built in Ruby, HTML5 & CSS it uses the Rails framework, devise and facebook omniauth for user login, PostgreSQL for the database & AWS to store images. Developed using TDD - Rspec and Capybara.
+Built in Ruby, HTML5 & CSS it uses the Rails framework, devise and facebook omniauth for user login, PostgreSQL for the database & AWS to store images. Developed using TDD - Rspec and Capybara. It allows signed in users to add, edit and delete a restaurant and allows users to add, edit and delete comments on restaurants.
 
 Test Examples
 -------------
