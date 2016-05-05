@@ -2,8 +2,9 @@ Dan Wheeler
 ==============
 
 **Junior web developer/software engineer.** 
-I’m a strong candidate, hard working and eager to improve my skills and learn new tech. I can be trusted to work autonomously, having worked as a manager in my previous position, and work fantastically in a team. Analytical, a natural problem solver with a Maths Degree. An out of the box thinker with an entrepreneurial mindset, my imagination has always been an incredible driving force in my life, and has an influence on almost everything I do. I'm very passionate about code, code has provided me with the tools enabling me to create, my perfect mix! I'm currently working on a project, stock-order, with Rails on the back, AngularJS on the front, TDD with Karma and Rspec and BDD with Protractor. I'm looking for a junior dev role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
-I am currently based in London.
+I’m a strong candidate, hard working and eager to improve my skills and learn new tech. I can be trusted to work autonomously, having worked as a manager in my previous position, and work fantastically in a team. Analytical, a natural problem solver with a Maths Degree. An out of the box thinker with an entrepreneurial mindset, my imagination has an influence on almost everything I do. I’m very logical in my approach and always think of the end user when developing. I'm very passionate about code, code has provided me with the tools enabling me to create, my perfect mix! I'm looking for a junior dev role with a focus on TDD/BDD, software craftsmanship and continued development and innovation.
+
+I'm currently based in London.
 
 ## Skills
 
