@@ -10,9 +10,9 @@ I'm currently based in London.
 
 |               |Strong                             |	Know                                	|
 |---------------|-----------------------------------|---------------------------------------|
-|Languages      |	Ruby, Javascript	CSS3, HTML5     | jQuery,	Bootstrap                     | 
-|Databases/ORMS |PostGresQL, DataMapper             |	ActiveRecord, MongoDB                 | 
-|Frameworks     |	Sinatra, Ruby on Rails, AngularJS |	Node.js, Express.js                   | 	
+|Languages      |	Ruby, Javascript	CSS3, HTML5, Bootstrap, Sass| jQuery                    | 
+|Databases/ORMS |PostGresQL, DataMapper             |	ActiveRecord, MongoDB, Firebase                 | 
+|Frameworks     |	Sinatra, Ruby on Rails, AngularJS |	Ember, Node, Express                  | 	
 |Testing        |	RSpec, Jasmine, Capybara          |	Cucumber, Karma, Protractor         	| 
 |Other          |	Version control through Github, Illustrator    |	Heroku deployment, Agile methodologies, Photoshop| 
 
