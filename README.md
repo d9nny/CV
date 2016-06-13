@@ -26,7 +26,7 @@ A responsive one page application developed with HTML5, CSS and Javascript using
 
 [**atlantic**](https://cryptic-taiga-13132.herokuapp.com/#/aboutUs)
 
-A work in progress - responsive application developed with HTML5, CSS and Javascript using the AngularJS framework. It uses Bootstrap, angular controllers, partials, services, factories, resources & mocks.
+Responsive application developed with HTML5, CSS and Javascript using the AngularJS framework. It uses Bootstrap, angular controllers, partials, services, factories, resources & mocks.
 
 [**First Fashion**](https://polar-plains-66246.herokuapp.com/)
 
